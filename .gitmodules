@@ -1,3 +1,6 @@
 [submodule "ThinkStats2"]
 	path = ThinkStats2
 	url = https://github.com/AllenDowney/ThinkStats2.git
+[submodule "opencv-course"]
+	path = opencv-course
+	url = https://github.com/jasmcaus/opencv-course.git
